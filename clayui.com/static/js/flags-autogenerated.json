@@ -12,6 +12,10 @@
         "aliases": ["ca-ad", "Catalan", "Andorra"]
     },
     {
+        "name": "ca-es-valencia",
+        "aliases": ["ca-es-valencia", "Catalan", "Valencia"]
+    },
+    {
         "name": "ca-es",
         "aliases": ["ca-es", "Catalan", "Spain"]
     },
@@ -36,6 +40,10 @@
         "aliases": ["en-au", "English", "Australia"]
     },
     {
+        "name": "en-ca",
+        "aliases": ["en-ca", "English", "Canada"]
+    },
+    {
         "name": "en-gb",
         "aliases": ["en-gb", "English", "United Kingdom"]
     },
@@ -44,8 +52,20 @@
         "aliases": ["en-us", "English", "United States"]
     },
     {
+        "name": "es-ar",
+        "aliases": ["es-ar", "Spanish", "Argentina"]
+    },
+    {
+        "name": "es-co",
+        "aliases": ["es-co", "Spanish", "Colombia"]
+    },
+    {
         "name": "es-es",
         "aliases": ["es-es", "Spanish", "Spain"]
+    },
+    {
+        "name": "es-mx",
+        "aliases": ["es-mx", "Spanish", "Mexico"]
     },
     {
         "name": "et-ee",
@@ -106,6 +126,10 @@
     {
         "name": "kk-kz",
         "aliases": ["kk-kz", "Kazakh", "Kazakhstan"]
+    },
+    {
+        "name": "km-kh",
+        "aliases": ["km-kh", "Cambodia"]
     },
     {
         "name": "ko-kr",
